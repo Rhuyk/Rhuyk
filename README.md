@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhuyk&label=Profile%20views&color=636363&style=flat" alt="rhuyk" /> </p>
 
-- 🎓 I'm studying at **Auckland University of Technology (2st year)**
+- 🎓 I'm studying at **Auckland University of Technology (2nd year)**
 
 - 🌱 I’m currently learning **Software Development & Artificial Intelligent**
 
