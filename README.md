@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Richard👋</h1>
 <h3 align="center">A Software/AI development student</h3>
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/Q25_LpJSVvsAAAAC/pepe-toast.gif">
+<img align="right" alt="Coding" width="350" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhuyk&label=Profile%20views&color=636363&style=flat" alt="rhuyk" /> </p>
 
 - 🎓 I'm studying at **Auckland University of Technology (2nd year)**
 
-- 🌱 I’m currently learning **Software Development & Artificial Intelligent**
+- 🌱 I’m currently learning **Software Development & Artificial Intelligence**
 
 - 🔭 I’m currently working on [PortfolioPal](https://github.com/ErickLao123/2023-S2-51-AIVestor)
 
