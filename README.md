@@ -6,7 +6,7 @@
 
 - 🎓 I'm studying at **Auckland University of Technology (2nd year)**
 
-- 🌱 I’m currently learning **Software Development & Artificial Intelligence**
+- 🌱 I’m currently learning **Software Development & Web Development & Artificial Intelligence**
 
 - 🔭 I’m currently working on [PortfolioPal](https://github.com/ErickLao123/2023-S2-51-AIVestor)
 
