@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Software Development & Web Development & Artificial Intelligence**
 
-- 🔭 I’m currently working on [PortfolioPal](https://github.com/ErickLao123/2023-S2-51-AIVestor)
+- 🔭 I’m currently working on [StockPricePrediction](https://github.com/Rhuyk/StockPricePrediction)
 
 - 📫 How to reach me **rh20020421@gmail.com**
 
