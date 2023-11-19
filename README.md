@@ -6,7 +6,7 @@
 
 - 🎓 I'm studying at **Auckland University of Technology (2nd year)**
 
-- 🌱 I’m currently learning **Software Development & Web Development & Artificial Intelligence**
+- 🌱 I’m currently learning **Web Development & Artificial Intelligence**
 
 - 🔭 I’m currently working on [StockPricePrediction](https://github.com/Rhuyk/StockPricePrediction)
 
