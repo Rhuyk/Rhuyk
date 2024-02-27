@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rh20020421@gmail.com**
 
-- 🪪 Check out my portfolio website **https://fengminhu.com/**
+- 🪪 Check out my portfolio website **https://fengmin-hu.web.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
